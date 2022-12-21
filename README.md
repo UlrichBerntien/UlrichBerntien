@@ -10,14 +10,11 @@ Experience in documentation, testing, software development.
 
 ## Other web activities
 
-- Codewars \
-  [![](https://www.codewars.com/users/UlrichBerntien/badges/large)](https://www.codewars.com/users/UlrichBerntien)
-- HackTheBox \
-  [![](https://www.hackthebox.eu/badge/image/163486)](https://app.hackthebox.eu/profile/163486)
-- TryHackMe \
-  [![](https://tryhackme-badges.s3.amazonaws.com/xtal.png)](https://tryhackme.com/p/xtal)
-- LinkedIn \
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/ulrich-berntien-268b22248)
+- [Codewars](https://www.codewars.com/users/UlrichBerntien)
+- [HackTheBox](https://app.hackthebox.eu/profile/163486)
+- [TryHackMe](https://tryhackme.com/p/xtal)
+- [LinkedIn](https://ca.linkedin.com/in/ulrich-berntien-268b22248)
+- [Xing](https://www.xing.com/profile/Ulrich_Berntien/)
 
 
 <!---
