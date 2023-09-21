@@ -6,12 +6,15 @@
 
 Studies physics and computer science.
 
-Experience in documentation, testing, software development.
+Experience in
+  - software development
+  - testing
+  - documentation
 
 ## Internet Presence
 
-- [DataCamp](https://app.datacamp.com/profile/ulrichberntien)
 - [Codewars](https://www.codewars.com/users/UlrichBerntien)
+- [DataCamp](https://www.datacamp.com/portfolio/ulrichberntien)
 - [HackTheBox](https://app.hackthebox.eu/profile/163486)
 - [TryHackMe](https://tryhackme.com/p/xtal)
 - [freeCodeCamp](https://www.freecodecamp.org/UlrichBerntien)
