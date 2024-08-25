@@ -19,4 +19,3 @@ Experience in
 - [TryHackMe](https://tryhackme.com/p/xtal)
 - [freeCodeCamp](https://www.freecodecamp.org/UlrichBerntien)
 - [LinkedIn](https://ca.linkedin.com/in/ulrich-berntien-268b22248)
-- [Xing](https://www.xing.com/profile/Ulrich_Berntien/)
